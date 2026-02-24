@@ -1,0 +1,16 @@
+# pdf extraction
+fitz
+boto3
+psycopg2
+datetime
+python-dotenv
+
+# FastAPI
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+streamlit_option_menu
+pandas
+plotly
